@@ -28,3 +28,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 This source code lacks the "node-modules" folder, which includes all libraries that Angular uses for developing. This was mandatory to do in order to upload the source code to this GitHub repo, because of the memory size restrictions applied to free accounts. 
+After downloading this files, one possible solution may be to generate a random Angular project with ng client in order to get the node_modules files and then copy the rest of this source code.
