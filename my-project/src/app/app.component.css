@@ -1,0 +1,19 @@
+h1{
+    color: goldenrod;
+    background-color: #696969;
+    width: 100%;
+
+	
+	
+}
+
+footer{
+
+    position:fixed;
+    bottom:0;
+    right: 5px;
+  
+    height:150px;   /* Height of the footer */
+   
+    
+}
